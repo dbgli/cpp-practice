@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\c++_projects\cpp-practice\cpp_primer\chapter_3\3_5_4\3_5_4\main.cpp(56): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 参见“strcpy”的声明
+d:\c++_projects\cpp-practice\cpp_primer\chapter_3\3_5_4\3_5_4\main.cpp(57): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(93): note: 参见“strcat”的声明
+  3_5_4.vcxproj -> D:\C++_Projects\cpp-practice\cpp_primer\chapter_3\3_5_4\Debug\3_5_4.exe
+  3_5_4.vcxproj -> D:\C++_Projects\cpp-practice\cpp_primer\chapter_3\3_5_4\Debug\3_5_4.pdb (Partial PDB)
