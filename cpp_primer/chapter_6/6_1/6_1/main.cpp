@@ -45,6 +45,6 @@ double absolute(double val) {
 int main() {
     double i;
     cin >> i;
-    cout << "abs(i) = " << absolute(i) << endl;
+    cout << "abs(" << i << ") = " << absolute(i) << endl;
     return 0;
 }
